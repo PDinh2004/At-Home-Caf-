@@ -1,6 +1,8 @@
 # At-Home-Cafe
 An app that tracks a task and logs it into Google Calendar.
 
+<img width="499" alt="image" src="https://github.com/PDinh2004/At-Home-Cafe/assets/70727202/5415ac34-d8a0-4e57-9832-198ac6abccb6">
+
 # BEFORE USE
 Must be an authorized user. Contact me phillipdinh04@gmail.com
 
